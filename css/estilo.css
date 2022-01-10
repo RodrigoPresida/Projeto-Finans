@@ -12,3 +12,8 @@
 footer p a  {
     margin: 5px 15px;
 }
+
+cite {
+   margin-right: 15px;    
+   margin-top: 5px;
+}
